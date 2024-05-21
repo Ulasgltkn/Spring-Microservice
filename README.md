@@ -64,7 +64,7 @@ Reactive Programming
 Non-Blocking I/O
 Fluent API
 
-Running the Project
+## Running the Project
 
 Start Eureka Server: Launch the Eureka Server for service discovery.
 Start Config Server: Run the Config Server application to provide configuration to other services.
